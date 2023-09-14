@@ -12,7 +12,6 @@ _Las herramientas con las que se construyo el proyecto son_
 - [React](https://sass-lang.com/) - Framework
 - [Material UI](https://necolas.github.io/normalize.css/) - Experiencia de usuario
 - [Api OpenWeather](https://openweathermap.org/city/3674962) - Api consumida para generar la informacion del clima
-- [NextJs](https://nextjs.org/) - Optimización del rendimiento
 
 ## Requerimientos 📄
 
