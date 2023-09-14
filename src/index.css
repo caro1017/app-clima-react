@@ -1,0 +1,25 @@
+body {
+  background-image: url(./assets/img/Fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Lato', sans-serif;
+}
+
+@media only screen and (max-width: 768px) {
+  /* Estilos específicos para tabletas */
+  body {
+    background-image: url(./assets/img/Fondo2.png);
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  /* Estilos específicos para dispositivos móviles */
+  body {
+    background-image: url(./assets/img/Fondo3.png);
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,32 @@
+.containerStyled {
+    padding: 1rem;
+    color: #6c757d;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.titleStyled{
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.humidityStyled {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.iconStyled {
+    width: 7rem;
+}
+
+.descriptionStyled {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.tempStyled {
+    font-size: 3.5rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
